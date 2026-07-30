@@ -1,0 +1,95 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Kennu",
+    "username": "elnarkennu16-440",
+    "headline": "Software Engineer & Builder",
+    "affiliation": "Open Source Developer",
+    "location": "Philippines",
+    "status": "Learning / Building / Shipping",
+    "about": [
+      "I'm a software engineer who enjoys turning ideas into working products — from frontend interfaces to backend systems and developer tooling.",
+      "I like building in public, learning new stacks, and shipping projects that solve real problems."
+    ]
+  },
+  "research": {
+    "primary": "Software Engineering",
+    "direction": "Full-stack product development",
+    "themes": "Web apps / automation / clean code",
+    "narrative": "I'm focused on building reliable software — clean architecture, practical tooling, and products that are useful in the real world."
+  },
+  "focus": [
+    {
+      "name": "Full-Stack Dev",
+      "description": "Building web applications from UI to API, deployment, and maintenance."
+    },
+    {
+      "name": "Open Source",
+      "description": "Contributing to and maintaining public repositories on GitHub."
+    },
+    {
+      "name": "Developer Tools",
+      "description": "Workflows, automation, and tools that make engineering faster."
+    }
+  ],
+  "projects": [
+    {
+      "name": "kennu-portfolio",
+      "url": "https://github.com/elnarkennu16-440/kennu-portfolio",
+      "homepage": "https://kennu-v1.vercel.app",
+      "focus": "Personal portfolio",
+      "summary": "My personal portfolio site showcasing projects, skills, and experience.",
+      "heroLabel": "Live portfolio"
+    },
+    {
+      "name": "NobleClassics",
+      "url": "https://github.com/elnarkennu16-440/NobleClassics-Main",
+      "homepage": "",
+      "focus": "E-commerce / PHP",
+      "summary": "Full-featured bookstore e-commerce with cart, checkout, and admin dashboard.",
+      "heroLabel": "E-commerce build"
+    },
+    {
+      "name": "NCAMIS-SHS",
+      "url": "https://github.com/elnarkennu16-440/NCAMIS-SHS",
+      "homepage": "",
+      "focus": "School management",
+      "summary": "Web-based academic and admin platform for Senior High School.",
+      "heroLabel": "Active system"
+    },
+    {
+      "name": "Bento Portfolio",
+      "url": "https://github.com/elnarkennu16-440/BENTO-GRID-PORTFOLIO-TEMPLATE-1---REACTJS",
+      "homepage": "",
+      "focus": "React / UI design",
+      "summary": "Bento Grid portfolio with 3D tilt, glassmorphism, and Framer Motion.",
+      "heroLabel": "UI template"
+    }
+  ],
+  "techStack": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "PHP",
+    "Tailwind CSS",
+    "Git"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "elnarkennu16-440",
+      "url": "https://github.com/elnarkennu16-440",
+      "logo": "github",
+      "color": "0B1220"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "signal"
+  },
+  "footer": "Building software, sharing what I learn, and shipping useful projects."
+}

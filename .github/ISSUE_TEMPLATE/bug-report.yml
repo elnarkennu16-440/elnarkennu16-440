@@ -1,0 +1,55 @@
+name: Bug report
+description: Report a setup, generation, rendering, or validation problem.
+title: "bug: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the starter kit. Do not attach your private source portrait. A screenshot of the generated SVG is enough.
+  - type: input
+    id: node-version
+    attributes:
+      label: Node.js version
+      placeholder: v20.19.0
+    validations:
+      required: true
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: Operating system
+      options:
+        - macOS
+        - Windows
+        - Linux
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: command
+    attributes:
+      label: Command and output
+      description: Remove local paths, tokens, email addresses, and other private data.
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I confirmed that this report does not include my original portrait or private information.
+          required: true

@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+
+# Portrait sources are private inputs. Keep them outside the repository when possible.
+input/
+portrait-source.*
+*.source.png
+*.source.jpg
+*.source.jpeg
