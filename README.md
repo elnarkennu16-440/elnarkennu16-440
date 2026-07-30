@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a software engineer who enjoys turning ideas into working products — from frontend interfaces to backend systems and developer tooling.
+I'm an Aspiring Web Developer who enjoys turning ideas into working products — from frontend interfaces to backend systems and developer tooling.
 
 I like building in public, learning new stacks, and shipping projects that solve real problems.
 
