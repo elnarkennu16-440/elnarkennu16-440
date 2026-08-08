@@ -31,7 +31,7 @@ I like building in public, learning new stacks, and shipping projects that solve
 
 | Project | Focus | Why it matters |
 | --- | --- | --- |
-| [**kennu-portfolio**](https://github.com/elnarkennu16-440/kennu-portfolio) | Personal portfolio | My personal portfolio site showcasing projects, skills, and experience. [Live](https://kennu-v1.vercel.app) |
+| [**MIRAMS Enterprise System**](https://github.com/elnarkennu16-440/MIRAMS-ENTERPRISE-SYSTEM) | React / Laravel / Spatie | Enterprise asset tracking & helpdesk platform with Spatie RBAC, multi-user approval workflows, and parallax UI. |
 | [**NobleClassics**](https://github.com/elnarkennu16-440/NobleClassics-Main) | E-commerce / PHP | Full-featured bookstore e-commerce with cart, checkout, and admin dashboard. |
 | [**NCAMIS-SHS**](https://github.com/elnarkennu16-440/NCAMIS-SHS) | School management | Web-based academic and admin platform for Senior High School. |
 | [**Bento Portfolio**](https://github.com/elnarkennu16-440/BENTO-GRID-PORTFOLIO-TEMPLATE-1---REACTJS) | React / UI design | Bento Grid portfolio with 3D tilt, glassmorphism, and Framer Motion. |
