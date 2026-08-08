@@ -35,6 +35,7 @@ I like building in public, learning new stacks, and shipping projects that solve
 | [**NobleClassics**](https://github.com/elnarkennu16-440/NobleClassics-Main) | E-commerce / PHP | Full-featured bookstore e-commerce with cart, checkout, and admin dashboard. |
 | [**NCAMIS-SHS**](https://github.com/elnarkennu16-440/NCAMIS-SHS) | School management | Web-based academic and admin platform for Senior High School. |
 | [**Bento Portfolio**](https://github.com/elnarkennu16-440/BENTO-GRID-PORTFOLIO-TEMPLATE-1---REACTJS) | React / UI design | Bento Grid portfolio with 3D tilt, glassmorphism, and Framer Motion. |
+| [**Hand Tracking 3D HUD**](https://github.com/elnarkennu16-440/MEDIAPIPE-THREEJS-HAND-TRACKING) | Three.js / MediaPipe | Real-time webcam hand-tracking system controlling interactive 3D particle visualizations. |
 
 ## Research Direction
 
