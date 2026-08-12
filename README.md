@@ -60,5 +60,5 @@ _Recent public activity will appear here after the workflow runs._
 <br>
 <h3 align="center">Recent Activity Graph</h3>
 <p align="center">
- <img alt="Kennu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elnarkennu16-440&amp;theme=tokyonight&amp;hide_border=true&amp;area=true">
+  <img alt="Kennu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elnarkennu16-440&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=39d353&amp;point=39d353&amp;area_color=39d353&amp;hide_border=true&amp;area=true">
 </p>
