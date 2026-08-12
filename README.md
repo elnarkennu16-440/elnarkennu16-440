@@ -56,3 +56,9 @@ _Recent public activity will appear here after the workflow runs._
 <p align="center">
   Building software, sharing what I learn, and shipping useful projects.
 </p>
+
+<br>
+<h3 align="center">Recent Activity Graph</h3>
+<p align="center">
+ <img alt="Kennu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elnarkennu16-440&amp;theme=tokyonight&amp;hide_border=true&amp;area=true">
+</p>
