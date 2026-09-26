@@ -15,35 +15,35 @@
 
 ## About Me
 
-I'm an Aspiring Web Developer who enjoys turning ideas into working products — from frontend interfaces to backend systems and developer tooling.
+I’m Kennu, an Information Systems graduate and builder based in the Philippines. I focus on developing clean web interfaces, exploring practical backend logic, and testing software workflows to ensure applications run reliably.
 
-I like building in public, learning new stacks, and shipping projects that solve real problems.
+Whether building personal projects or running functional tests to catch edge cases, I value simple structure, consistent practice, and steady iteration.
 
 ## Current Focus
 
 | Area | What I am exploring |
 | --- | --- |
-| **Full-Stack Dev** | Building web applications from UI to API, deployment, and maintenance. |
-| **Open Source** | Contributing to and maintaining public repositories on GitHub. |
-| **Developer Tools** | Workflows, automation, and tools that make engineering faster. |
+| **Web Development** | Building responsive interfaces and straightforward server-side systems. |
+| **Quality & Testing** | Exploring manual testing, test scenarios, and automated checks to improve application stability. |
+| **Practical Tooling** | Improving day-to-day Git workflows, database modeling, and structured development setups. |
 
 ## Featured Work
 
 | Project | Focus | Why it matters |
 | --- | --- | --- |
-| [**MIRAMS Enterprise System**](https://github.com/elnarkennu16-440/MIRAMS-ENTERPRISE-SYSTEM) | React / Laravel / Spatie | Enterprise asset tracking & helpdesk platform with Spatie RBAC, multi-user approval workflows, and parallax UI. |
-| [**NobleClassics**](https://github.com/elnarkennu16-440/NobleClassics-Main) | E-commerce / PHP | Full-featured bookstore e-commerce with cart, checkout, and admin dashboard. |
-| [**NCAMIS-SHS**](https://github.com/elnarkennu16-440/NCAMIS-SHS) | School management | Web-based academic and admin platform for Senior High School. |
-| [**Bento Portfolio**](https://github.com/elnarkennu16-440/BENTO-GRID-PORTFOLIO-TEMPLATE-1---REACTJS) | React / UI design | Bento Grid portfolio with 3D tilt, glassmorphism, and Framer Motion. |
-| [**Hand Tracking 3D HUD**](https://github.com/elnarkennu16-440/MEDIAPIPE-THREEJS-HAND-TRACKING) | Three.js / MediaPipe | Real-time webcam hand-tracking system controlling interactive 3D particle visualizations. |
+| [**MIRAMS Enterprise System**](https://github.com/elnarkennu16-440/MIRAMS-ENTERPRISE-SYSTEM) | React / Laravel / RBAC | Manufacturing asset tracking & request system with role-based access and multi-user workflows. |
+| [**NCAMIS-SHS**](https://github.com/elnarkennu16-440/NCAMIS-SHS) | Academic Management | Web-based student management platform designed to streamline high school academic records. |
+| [**NobleClassics**](https://github.com/elnarkennu16-440/NobleClassics-Main) | PHP / E-commerce | Online bookstore prototype covering catalog browsing, cart operations, and an admin dashboard. |
+| [**Bento Portfolio**](https://github.com/elnarkennu16-440/BENTO-GRID-PORTFOLIO-TEMPLATE-1---REACTJS) | React / Tailwind CSS | Minimalist personal website layout focused on dark aesthetics, responsive cards, and clean typography. |
+| [**3D Vision & Particle Demos**](https://github.com/elnarkennu16-440/MEDIAPIPE-THREEJS-HAND-TRACKING) | Python / Computer Vision | Interactive experiments exploring hand tracking and particle visualizations. |
 
-## Research Direction
+## Practice & Direction
 
-I'm focused on building reliable software — clean architecture, practical tooling, and products that are useful in the real world.
+I approach software through both building and verification — ensuring features are straightforward to use, interfaces remain intuitive, and core functionalities work as expected across edge cases.
 
-## Tech Stack
+## Tech Stack & Tools
 
-`JavaScript` · `TypeScript` · `React` · `Node.js` · `PHP` · `Tailwind CSS` · `Git`
+`JavaScript` · `TypeScript` · `React` · `Tailwind CSS` · `PHP` · `Laravel` · `MySQL` · `Git` · `Playwright / Testing Basics`
 
 ## Recent Activity
 
@@ -54,6 +54,5 @@ _Recent public activity will appear here after the workflow runs._
 ---
 
 <p align="center">
-  Building software, sharing what I learn, and shipping useful projects.
+  Building practical tools, learning through iteration, and testing for reliability.
 </p>
-
