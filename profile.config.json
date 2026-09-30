@@ -3,18 +3,18 @@
   "profile": {
     "name": "Kennu",
     "username": "elnarkennu16-440",
-    "headline": "Software Engineer & Builder",
+    "headline": "Junior Software Engineer & QA",
     "affiliation": "Open Source Developer",
     "location": "Philippines",
     "status": "Learning / Building / Shipping",
     "about": [
-      "I'm a software engineer who enjoys turning ideas into working products — from frontend interfaces to backend systems and developer tooling.",
+      "I'm an Aspiring Junior software engineer who enjoys turning ideas into working products — from frontend interfaces to backend systems and developer tooling.",
       "I like building in public, learning new stacks, and shipping projects that solve real problems."
     ]
   },
   "research": {
     "primary": "Software Engineering",
-    "direction": "Full-stack product development",
+    "direction": "Frontend product development",
     "themes": "Web apps / automation / clean code",
     "narrative": "I'm focused on building reliable software — clean architecture, practical tooling, and products that are useful in the real world."
   },
