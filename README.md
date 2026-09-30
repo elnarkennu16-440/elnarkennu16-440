@@ -5,7 +5,7 @@
     <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-e0c40415-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-e0c40415-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-e0c40415-light.svg">
-    <img src="./assets/hero/agent-console-e0c40415-dark.svg" alt="Kennu - Software Engineer & Builder" width="100%">
+    <img src="./assets/hero/agent-console-e0c40415-dark.svg" alt="Kennu - Frontend Dev & QA Tester" width="100%">
   </picture>
 </p>
 
