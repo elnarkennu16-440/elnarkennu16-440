@@ -43,21 +43,10 @@ Portfolio: [**elnarkennu.vercel.app**](https://elnarkennu.vercel.app)
 
 <br>
 
-<a href="https://github.com/elnarkennu16-440"><img src="assets/h-stats.svg" alt="GitHub Stats" width="100%"></a>
-<a href="https://github.com/elnarkennu16-440"><img src="assets/stats.svg" alt="GitHub stats: repositories, stars, followers, commits, pull requests, issues, total contributions and streaks" width="100%"></a>
-<a href="https://github.com/elnarkennu16-440?tab=repositories"><img src="assets/languages.svg" alt="Most used languages" width="100%"></a>
+<a href="https://github.com/elnarkennu16-440"><img src="assets/h-stats.svg" alt="GitHub Snapshot" width="100%"></a>
+<a href="https://github.com/elnarkennu16-440"><img src="assets/stats.svg" alt="GitHub snapshot: 12 public repositories, 9 followers, 15 stars on featured work, 6 featured projects" width="100%"></a>
+<a href="https://github.com/elnarkennu16-440?tab=repositories"><img src="assets/languages.svg" alt="Languages in my featured work: JavaScript, Python, TypeScript, PHP" width="100%"></a>
 
-<div align="center">
-
-<a href="https://github.com/elnarkennu16-440">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg">
-  <img alt="Contribution snake animation" src="assets/github-snake-dark.svg" width="100%">
-</picture>
-</a>
-
-</div>
 
 <br>
 
